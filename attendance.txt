@@ -1,3 +1,3 @@
 Application: College Attendance System
-Minimum attendance: 75%
+Minimum attendance: 65%
 Report format: PDF
