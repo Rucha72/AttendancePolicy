@@ -1,3 +1,5 @@
 Application: College Attendance System
+
 Minimum attendance: 80%
+
 Report format: PDF
